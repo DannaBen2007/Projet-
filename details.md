@@ -1,6 +1,10 @@
-<h2>Composants</h2> 
+<h2>Technologie utilisée</h2> 
 
-Carte UCA, Capteur Ultrason, Ecran d'affichage OLED
+- Carte UCA
+- Capteur Ultrason
+- Ecran d'affichage OLED
+- Codage en C++ (type Arduino)
+- LoRaWan
 
 <h2>Fonctionnement</h2> 
 
@@ -15,9 +19,15 @@ Carte UCA, Capteur Ultrason, Ecran d'affichage OLED
 <h2>Suivi du projet</h2>
 
 1ère Etape : idée de création d'un système de mesure de température pour personnes agées.
+
 2ème Etape : changement d'idée, création d'une boîte aux lettres intelligente.
+
 3ème Etape : reflexion sur les composants que nous allons utiliser.
+
 4ème Etape : mise en place du cahier des charges de la MailBox+.
+
 5ème Etape : conception 3D de la maquette.
+
 6ème Etape : apparition de la 1ère version du code
+
 7ème Etape : réalisaton de la boite avec du carton
