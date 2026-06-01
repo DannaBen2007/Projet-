@@ -31,3 +31,12 @@
 6ème Etape : apparition de la 1ère version du code
 
 7ème Etape : réalisaton de la boite avec du carton
+
+8ème Etape : finalisaton du code et assemblage
+
+<h2>Membres du groupe</h2>
+
+- BARRAHOU Riyad
+- BENMAMMAR Danna
+
+
