@@ -9,3 +9,5 @@ Ce projet permettra de concevoir une boîte aux lettres intelligente capable de 
 
 
 <img width="328" height="420" alt="(2) Snapchat et 2 pages de plus -  InPrivate  – Microsoft​ Edge 01_06_2026 10_48_59" src="https://github.com/user-attachments/assets/b3eafd5a-c2e5-4225-9309-8b4af5cf94f8" />
+
+<img width="1670" height="1306" alt="Image1" src="https://github.com/user-attachments/assets/6774dcaa-cbfe-4bb5-95a9-6de541aa2263" />
